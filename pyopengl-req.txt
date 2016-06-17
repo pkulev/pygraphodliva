@@ -1,0 +1,4 @@
+PyOpenGL
+PyVRML97
+OpenGLContext
+pydispatcher
